@@ -1,0 +1,11 @@
+E:\project\PayOss\TenPay\bin\Debug\TenPay.dll
+E:\project\PayOss\TenPay\bin\Debug\TenPay.pdb
+E:\project\PayOss\TenPay\bin\Debug\LitJson.dll
+E:\project\PayOss\TenPay\bin\Debug\QuickMark.dll
+E:\project\PayOss\TenPay\bin\Debug\RestSharp.dll
+E:\project\PayOss\TenPay\bin\Debug\ThoughtWorks.QRCode.dll
+E:\project\PayOss\TenPay\obj\Debug\TenPay.csprojAssemblyReference.cache
+E:\project\PayOss\TenPay\obj\Debug\TenPay.csproj.CoreCompileInputs.cache
+E:\project\PayOss\TenPay\obj\Debug\TenPay.csproj.CopyComplete
+E:\project\PayOss\TenPay\obj\Debug\TenPay.dll
+E:\project\PayOss\TenPay\obj\Debug\TenPay.pdb
